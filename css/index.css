@@ -1,0 +1,47 @@
+.body {
+  background-image: url("green.jpeg");
+}
+
+#banner_image{
+	padding-top:75px;
+	padding-bottom:50px;
+	text-align:center;
+	color:#f8f8f8;
+	width:100%;
+	height:900px;
+	background:url(../img/image.jpg) no-repeat center;
+	background-size:100% 100%;
+	background-repeat: no-repeat;
+}
+#banner_content{
+	position:relative;
+	padding-top:6%;
+	padding-bottom:6%;
+	margin-top:12%;
+	margin-bottom:12%;
+	background-color:rgba(0,0,0,0.7);
+	max-width:660px;
+}
+footer{
+	
+	padding:10px 0;
+	position: relative;
+	background-color:#ffffff;
+	color:#000000;
+	bottom:0;
+	width:100%;
+	font-weight: 300;
+}
+
+.cont{
+	padding-top:75px;
+}
+
+.error{
+    color:#ff0000;   
+}    
+.boldHR {
+	height:2px;border:none;color:#333;background-color:#333;
+}
+
+
